@@ -7,7 +7,7 @@
         <title>Indice de las pantallas</title>
     </head>
     <body>
-<div id="contenedor" class="bello">
+<div id="contenedor" class="feo">
 	<div class="pantallas">
 		<?php
 			include 'ingreso_gastos_consumidores.php';
