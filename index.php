@@ -23,6 +23,7 @@
 			include 'listado_de_consumidores.php';
 		?>
 		</div>
+		<div></div>
 </div>
 
     </body>
