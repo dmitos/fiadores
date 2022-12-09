@@ -23,7 +23,7 @@
 
                                                                 <!--comienza el cartel con los datos del consumidor
                                                                     para repetir todas la veces que sea necesario
-                                                                    en el id_cons va el id del consumidor-->
+                                                                    en el id_cons va el id del consumidor probando-->
             <div class="cartel">
                 <div class="fecha_ultimo_ingreso_consumidor">
                     <p class="dia_consumidor">01</p>
